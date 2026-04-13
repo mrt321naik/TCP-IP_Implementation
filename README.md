@@ -5,6 +5,7 @@ A project to display my implementation of an TCP/IP web server. Entirely written
 ## Socket programming:
 
 Socket programming is a way for two computers or programs to talk to each other over a network
+
         -> There are two main types of Sockets **TCP/IP** then then **UDP**. 
 
     1. **TCP/IP**
@@ -35,10 +36,5 @@ Socket programming is a way for two computers or programs to talk to each other 
 
     - > Then run the client.cpp, the client will send the message we sent to the server at             port 8080 and the message is revived and printed by the server.
 
-`
 
-![](/home/abhaynaik/.var/app/com.github.marktext.marktext/config/marktext/images/2026-04-13-16-56-36-Screenshot1.png)
 
-![](/home/abhaynaik/.var/app/com.github.marktext.marktext/config/marktext/images/2026-04-13-16-56-47-Screenshot2.png)
-
-![](/home/abhaynaik/.var/app/com.github.marktext.marktext/config/marktext/images/2026-04-13-16-56-55-Screenshot3.png)
